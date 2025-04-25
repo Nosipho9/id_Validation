@@ -38,10 +38,17 @@ Edit
 All unit tests should pass if the implementation is correct.
 
 ✅ Features
+
 ✔️ Checks if the ID is numeric and exactly 13 digits
+
 ✔️ Validates the date of birth using strict formatting and rules
+
 ✔️ Determines gender based on the gender sequence
+
 ✔️ Validates the citizenship code
+
 ✔️ Calculates and verifies the checksum digit using the Luhn algorithm
+
 ✔️ Fully tested with JUnit 5
+
 ✔️ Built and managed using Gradle
