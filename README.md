@@ -25,7 +25,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/id_validate.git
+git clone https://github.com/Nosipho9/id_Validation.git
 cd id_validate
 Run the Unit Tests
 
